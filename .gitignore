@@ -1,0 +1,11 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# スコアファイル（自動生成される）
+score.txt
+
+# VSCode設定
+.vscode/
+
