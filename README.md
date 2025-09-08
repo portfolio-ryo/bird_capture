@@ -1,7 +1,7 @@
 # Bird_Capture
 
 Tkinter を使って制作した、シンプルなバードキャッチゲームです。  
-VSCode 上で Python により実装されました。
+Visual Studio Code 上で Python を使って開発しました。
 
 ---
 
@@ -16,7 +16,7 @@ VSCode 上で Python により実装されました。
 
 ## プレイ動画（GIF）
 
-ゲームの中盤を抜粋したデモGIFです。
+ゲームのデモGIFです。
 
 ![ゲームプレイの様子](docs/bird_capture.gif)
 
